@@ -1,0 +1,7 @@
+# custom
+application/config/dev
+application/config/live
+
+# OSX Specific files
+.DS_Store
+/__MACOXS
